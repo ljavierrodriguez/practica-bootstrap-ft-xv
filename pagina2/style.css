@@ -1,0 +1,22 @@
+.fs-7 {
+    font-size: 0.7em;
+}
+
+.separator {
+    width: 2px;
+    height: 70px;
+    background-color: #ccc;
+}
+
+.help-white::placeholder {
+    color: white;
+}
+
+.slide-item {
+    width: 100%;
+    height: 512.16px;
+    background-color: #ccc;
+    background: url('https://picsum.photos/seed/picsum/2040/800');
+    background-size: cover;
+    background-position: center center;
+}
